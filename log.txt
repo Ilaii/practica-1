@@ -1,0 +1,49 @@
+commit 6b9be6f88032cfbbf4e5227227e585787b541d57
+Author: Werner Kollros <werner97@hotmail.es>
+Date:   Thu Apr 4 23:46:37 2019 -0400
+
+    Se creo el archivo index.html y se le anhadio texto.
+
+commit 18cedf8eac2b8a37239366ea197bdc7f51a016de
+Author: Werner Kollros <werner97@hotmail.es>
+Date:   Thu Apr 4 23:44:34 2019 -0400
+
+    Se realizo los siguientes cambios
+    se creo la carpeta assets
+    se movieron las carpetas img, css y js dentro de assets.
+
+commit afd83f80868180fcb4d9f7868afdf885d4bf2cc7
+Author: Werner Kollros <werner97@hotmail.es>
+Date:   Thu Apr 4 10:35:56 2019 -0400
+
+    Cambio de nombre de imagenes a img
+
+commit a5aebb1fa37c5a22fe3bc4c1e576f2f77a151ddb
+Author: Werner Kollros <werner97@hotmail.es>
+Date:   Thu Apr 4 10:33:50 2019 -0400
+
+    Se agrego img2.jpg
+
+commit b2be6661b82fd893e69db10c90998cdcb1bc4b5f
+Author: Werner Kollros <werner97@hotmail.es>
+Date:   Thu Apr 4 10:23:22 2019 -0400
+
+    Se crearon las carpetas css, js e imagenes
+
+commit c67a270e49434ee59b17126f6bc2b95ca21e7850
+Author: Werner Kollros <werner97@hotmail.es>
+Date:   Thu Apr 4 10:13:45 2019 -0400
+
+    Cambio de nombre readme
+
+commit 3b259a346d0969b8f779465810c7dc0d6a5190e9
+Author: Werner Kollros <werner97@hotmail.es>
+Date:   Thu Apr 4 10:11:26 2019 -0400
+
+    Commit inicial
+
+commit ea3bad2698aef46f9772d490a9043e5a4d3d0917
+Author: Ilaii <48467164+Ilaii@users.noreply.github.com>
+Date:   Thu Apr 4 09:55:54 2019 -0400
+
+    Initial commit
